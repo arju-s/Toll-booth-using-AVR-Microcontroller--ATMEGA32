@@ -1,1 +1,1 @@
-# Toll-booth-using-AVR-Microcontroller-ATMEGA32-
+Simplified procedure for passengers to pay toll at toll booths using AVR
